@@ -1,6 +1,6 @@
 from num2words import num2words
 
-giftArr = ["Partridge in a pear-tree", "Turtle doves", "French hens","Colly birds","Gold rings","Geese a laying", "Swans a swimming","Maids a milking","Drummers drumming","Pipers piping","Ladies dancing","Lords a leaping"]
+giftArr = ["partridge in a pear-tree", "turtle doves", "french hens","colly birds","gold rings","geese a laying", "swans a swimming","maids a milking","drummers drumming","pipers piping","ladies dancing","lords a leaping"]
 
 def printNthDay(n):
     if(n == 0):
@@ -12,7 +12,7 @@ def printNthDay(n):
 
 if __name__ == "__main__":
     for i in range(1, 13):
-        print ("On the " + num2words(i, ordinal=True) + " day of christmas\nMy true love gave to me:  ")
+        print ("On the " + num2words(i, ordinal=True).capitalize() + " day of christmas\nMy true love gave to me:  ")
         for j in range(i-1,-1,-1):
             printNthDay(j)
         print("\n   ")
