@@ -10,7 +10,7 @@ def printNthDay(n):
     if(n == 0):
         print("a " + giftArr[n] + ".")
     elif(n == 1):
-            print(num2words(n + 1) + " " + giftArr[n] + "and,")
+            print(num2words(n + 1) + " " + giftArr[n] + ", and")
     else:
         print(num2words(n + 1) + " "  + giftArr[n] + ",")
 
