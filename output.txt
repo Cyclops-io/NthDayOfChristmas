@@ -5,14 +5,14 @@ a Partridge in a pear-tree.
 
 On the 2nd day of christmas
 My true love gave to me:
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
 On the 3rd day of christmas
 My true love gave to me:
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -20,7 +20,7 @@ On the 4th day of christmas
 My true love gave to me:
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -29,7 +29,7 @@ My true love gave to me:
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -39,7 +39,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -50,7 +50,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -62,7 +62,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -75,7 +75,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -89,7 +89,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -104,7 +104,7 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
 
 
@@ -120,5 +120,5 @@ six Geese a laying,
 five Gold rings,
 four Colly birds,
 three French hens,
-two Turtle dovesand,
+two Turtle doves, and
 a Partridge in a pear-tree.
