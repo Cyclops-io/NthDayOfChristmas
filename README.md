@@ -3,8 +3,4 @@
 ### dependancies:
 - num2words
 
-
-On the Nth day of christmas  
-my true love gave to me:  
-
-![latex](latex.png)
+![latex](latex.png)c
