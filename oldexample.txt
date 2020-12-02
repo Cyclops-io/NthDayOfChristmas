@@ -1,0 +1,8 @@
+
+N gift[n-1]   
+n - 1 gift[n-2]  
+.  
+.  
+.  
+2 gift[1] and  
+a gift[0].  
