@@ -2,7 +2,6 @@ from num2words import num2words
 
 giftArr = ["Partridge in a pear-tree", "Turtle doves", "French hens","Colly birds","Gold rings","Geese a laying", "Swans a swimming","Maids a milking","Drummers drumming","Pipers piping","Ladies dancing","Lords a leaping"]
 
-
 def printNthDay(n):
     if(n == 0):
         print("a " + giftArr[n] + ".  ")
