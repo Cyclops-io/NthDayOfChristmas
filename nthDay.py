@@ -12,7 +12,7 @@ def printNthDay(n):
 
 if __name__ == "__main__":
     for i in range(1, 13):
-        print ("On the " + num2words(i, ordinal=True).capitalize() + " day of christmas\nMy true love gave to me:  ")
+        print ("On the " + num2words(i, ordinal=True) + " day of christmas\nMy true love gave to me:  ")
         for j in range(i-1,-1,-1):
             printNthDay(j)
         print("\n   ")
