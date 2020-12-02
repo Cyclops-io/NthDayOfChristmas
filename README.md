@@ -1,5 +1,8 @@
 ## Prints out the lyrics of the twelve days of christmas
 
+dependancies:
+num2words
+
 On the 1st day of christmas  
 My true love gave to me:  
 a Partridge in a pear-tree.  
