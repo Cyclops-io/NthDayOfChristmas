@@ -1,6 +1,6 @@
-## Prints out the lyrics of the twelve days of christmas
+# Prints out the lyrics of the twelve days of christmas
 
-# dependancies:
+### dependancies:
 - num2words
 
 On the first day of christmas
